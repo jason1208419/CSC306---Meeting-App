@@ -56,3 +56,59 @@ You should submit a **single .zip folder** containing:
 to Blackboard before **11:00am, Friday 7th December 2018**. Failing to submit all of the files will lose you marks as the marker won't be able to test all features of your app.<br/>
 <br/>
 This is an **individual** coursework and must be completed by you alone. If you copy files or methods from another source these must be referenced in comments in the usual way. You may not work as groups. You may discuss your work with your colleagues but anything written down must be done alone. By submitting electronically you are implicitly stating that it is your own work, except where otherwise specified. **Academic Misconduct will be treated harshly.**
+
+### Rubric
+<table>
+  <tr>
+    <th></th>
+    <th>Fail (<40%)</th> 
+    <th>Pass (40-49%)</th>
+    <th>2:2 (50-59%)</th>
+    <th>2:1 (60-69%)</th>
+    <th>First (70%-79%)</th>
+    <th>Distinction (80%+)</th>
+  </tr>
+  <tr>
+    <td>Functionality <b>(50%)</b></td>
+    <td>Work of very poor quality. Doesn't run, or runs but doesn't have any functionality.</td> 
+    <td>The app is limited in functionality, offering very little features</td>
+    <td>The app has limited functionality and does not meet all requirements</td>
+    <td>All features described in Coursework Outline have been implemented</td>
+    <td>All features described in Coursework Outline have been implemented and some basic additional features have been added</td>
+    <td>Student has completed all features in Coursework Outline and has introduced new features into app that are of professional standard</td>
+  </tr>
+  <tr>
+    <td>Design <b>(20%)</b></td>
+    <td>Poor GUI using inappropriate principles. Few or no design principles used. Difficult to understand how to use.</td> 
+    <td>User Interface is basic</td>
+    <td>Some attempt at using standard design principles. Moderately easy to understand how to use.</td>
+    <td>Evidence that the student has considered the Design Principles and applied them in some cases</td>
+    <td>Evidence that the student made good use of Principles and produced a clean, well presented app</td>
+    <td>App Is presented in a professional style, making full use of design principles</td>
+  </tr>
+  <tr>
+    <td>Code Quality <b>(15%)</b></td>
+    <td>Strings and colours implemented in code. Some attempt at sensible variable names, whitespace and tabbing etc.</td> 
+    <td colspan="2">Some resources externalised, though code is difficult to read and understand</td>
+    <td>Most resources externalised but not into separate files, or not all resources externalised. Reasonable use of whitespace/ names.</td>
+    <td>Most or all resources externalised but should have used more xml files. Good use of whitespace, fairly easy to understand code.</td>
+    <td>All resources externalised and separated into appropriate files/directories. Professional quality coding.</td>
+  </tr>
+  <tr>
+    <td>Video <b>(5%)</b></td>
+    <td>No Video submitted</td> 
+    <td>Video is extremely basic and does not show enough content</td>
+    <td>Simple video highlighting basic features</td>
+    <td>Good video, most features are obvious</td>
+    <td>Excellent quality video, clearly shows features</td>
+    <td>Video is of a professional level, highlighting all features</td>
+  </tr>
+  <tr>
+    <td>ReadMe <b>(10%)</b></td>
+    <td>No ReadMe submitted</td> 
+    <td>ReadMe contains limited information and basic understanding of app components used</td>
+    <td>ReadMe contains instructions and evidence of understanding of components used</td>
+    <td>Good Readme with instructions and good understanding of components used</td>
+    <td colspan="2">Professional standard of ReadMe, clear instructions and excellent understanding of components used</td>
+  </tr>
+</table>
